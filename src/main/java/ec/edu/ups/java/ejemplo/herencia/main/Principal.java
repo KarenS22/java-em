@@ -17,6 +17,8 @@ import java.util.Date;
 public class Principal {
 
     public static void main(String[] args) {
+        
+        
         System.out.println("Hello World!");
         EmpleadoAsalariado empleadoUno = new EmpleadoAsalariado(10, 120,
                 2,"01010", "Andres", "Vera", "099999");
